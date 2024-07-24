@@ -35,9 +35,15 @@
 
   > O tema do #Terçoftware é editor de texto? Notepad++
 
+Também indicado por:
+- [@xenotar@mastodon.social](https://mastodon.social/@xenotar)
+
 * [Vim](https://www.vim.org/) - indicação de [@oigreslima@fed.sfl.pro.br](https://fed.sfl.pro.br/profile/oigreslima) (#T0002 - 20224-07-23)
   
   > #terçoftware Na interface gráfica uso #gedit - Nos acessos remotos (ssh) o vim. Mas uso pouco editores de texto puro! Esses dias que estou brincando com a criação de um gopherspace tenho usado bastante o #Vim
+
+Também indicado por:
+- [@xenotar@mastodon.social](https://mastodon.social/@xenotar)
   
 * [Sublime Text](https://www.sublimetext.com/) - indicação de [@pbaesse@ursal.zone](https://ursal.zone/@pbaesse) (#T0002 - 20224-07-23)
   
@@ -47,13 +53,20 @@
   
   > Mas oq uso mais mesmo e recomendo é o @joplinapp@mastodon.social. Editor de notas sensacional, #softwarelivre, sincroniza com vários dispositivos na sua própria nuvem respeitando a privacidade. Topzera. Alguém mais usa??
 
-* [Kate](https://kate-editor.org) - indicação de [@yuribravos@bolha.one](https://bolha.one/@yuribravos) (#T0002 - 20224-07-23)
+* [Kate](https://kate-editor.org) - indicação de [@yuribravos@bolha.one](https://bolha.one/@yuribravos) (#T0002 - 2024-07-23)
   
   > Depois que instalei o Big Linux vi o editor de texto padrão dele é o Kate e que ele tem suporte de realce de linguagem pra trocentas. Ainda não uso editores de texto pra programar, embora tente aprender uma coisa ou outra, mas estou interessado em bulir mais nele.
 
-* [LibreOffice Writer](https://www.libreoffice.org/) - indicação de [@yuribravos@bolha.one](https://bolha.one/@yuribravos) (#T0002 - 20224-07-23)
+* [LibreOffice Writer](https://www.libreoffice.org/) - indicação de [@yuribravos@bolha.one](https://bolha.one/@yuribravos) (#T0002 - 2024-07-23)
   
   > E de editor de texto de gente normal, agora estou usando o LibreOffice Writer e no episódio passado eu apanhei alguns bons minutos pra botar um versalete no texto :angercrywall: #Terçoftware
+
+* [Google Docs](https://docs.google.com) - indicação de [@xenotar@mastodon.social](https://mastodon.social/@xenotar) (#T0002 - 2024-07-23)
+* [Xournal++](https://xournalpp.github.io/) - indicação de [@xenotar@mastodon.social](https://mastodon.social/@xenotar) (#T0002 - 2024-07-23)
+  > Trabalho/documentos: Google Doc, Pessoal/documentos: vi (nvi ou vim)/LaTeX, Administração sistema: vi (nvi ou vim), sed, Windows: notepad++, Preparação de aula: Xournal++, Preparação de material didático: Xournal++, #tercoftware
+
+
+  
 
 
 
