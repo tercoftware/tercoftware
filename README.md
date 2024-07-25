@@ -70,6 +70,10 @@
   
   > Trabalho/documentos: Google Doc, Pessoal/documentos: vi (nvi ou vim)/LaTeX, Administração sistema: vi (nvi ou vim), sed, Windows: notepad++, Preparação de aula: Xournal++, Preparação de material didático: Xournal++, #tercoftware
 
+* #### [Microsoft Word](https://www.microsoft.com/pt-br/microsoft-365/word) - indicação de [@kiff@panelinha.club](https://panelinha.club/@kiff) (#T0002 - 2024-07-23)
+  
+  > word :frogUnEasy:
+  
 * #### [Lyx](https://www.lyx.org/) - indicação de [@cochise@social.subversida.de](https://social.subversida.de/@cochise) (#T0002 - 2024-07-23)
   
   > Lyx editor visual que usa LaTeX, voltado para texto academico, mas abstrai a maior parte das coisas chatas da linguagem, tem um espaço especial no meu coração, apesar de que a falta de as instituições aceitarem arquivos que não sejam word tornarem meio difícil trabalhar com ele.
