@@ -14,6 +14,9 @@
 * #### [gedit](https://help.gnome.org/users/gedit/stable/) - indicação de [@lffontenelle@mastodon.social](https://mastodon.social/@lffontenelle) (#T0002 - 2024-07-23)
 
   > 2/ O gedit, ou mais recentemente o gnome-text-editor, é meu editor para coisa besta só que abrindo a partir do gerenciador de arquivos em vez da linha de comando. Às vezes até mesmo na linha de comando, xdg-open NomeDoArquivo.txt
+  
+  ###### Também indicado por:
+  > [@rgou@mastodon.social](https://mastodon.social/@rgou)
 
 * #### [RStudio](https://posit.co/download/rstudio-desktop/) - indicação de [@lffontenelle@mastodon.social](https://mastodon.social/@lffontenelle) (#T0002 - 2024-07-23)
 
@@ -26,6 +29,9 @@
 * #### [VSCode](https://code.visualstudio.com) - indicação de [@guites@bolha.us](https://bolha.us/@guites) (#T0002 - 2024-07-23)
 
   > #tercoftware #terçoftware quando comecei a programar o vscode já era rei, e recomendado em todos os tutoriais. Com o tempo eu fui migrando pro vim, mas nunca virou meu editor de código principal. A realidade é que eu consigo editar texto mais rápido no vim, mas eu passo pouco tempo na programação digitando, e muito tempo pulando de arquivo em arquivo pra entender as coisas. Daí nesse aspecto o vscode e o clique clique com o mouse vencem. Por outro lado, tudo que eu faço que envolve digitar, tipo anotações, emails, rascunhos, eu faço no vim. É um feeling quase de máquina de escrever
+  
+  ###### Também indicado por:
+  > [@rgou@mastodon.social](https://mastodon.social/@rgou)
 
 * #### [textreme](https://ash-k.itch.io/textreme) - indicação de [@fastaminha@mastodon.com.br](https://mastodon.com.br/@fantasminha) (#T0002 - 2024-07-23)
 
@@ -94,6 +100,9 @@
 
   > neovim. Especialmente com o LazyVim
 
+* #### [Obsidian](https://obsidian.md/) - indicação de [@rgou@mastodon.social](https://mastodon.social/@rgou) (#T0002 - 2024-07-23)
+
+  > #tercoftware Vou apelar pra nolstagia. Nos meus tempos de pirataria em disquetes 5 e 1/4 o hours concours era o Carta Certa. Chegou a ser vendido por R$240 em 1994 (tipo, o salário mínimo era 100 FHCs). Quando entrei no BB tinha o RedatorPC da Itautec. Decorei os menus pois o monitor de fósforo verde já tinha apagado o pobre... Hoje alterno o VSCode, LibreOffice (raramente), Gedit, Obsidian e por força de trabalho, GDocs.
 
 
 ### Gerenciadores de Senhas
