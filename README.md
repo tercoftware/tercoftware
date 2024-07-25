@@ -3,11 +3,11 @@
 
 ### Editores de Texto
 
-* ##### [nano](https://www.nano-editor.org) - indicação de [@fastaminha@mastodon.com.br](https://mastodon.com.br/@fantasminha) (#T0002 - 2024-07-23)
+* #### [nano](https://www.nano-editor.org) - indicação de [@fastaminha@mastodon.com.br](https://mastodon.com.br/@fantasminha) (#T0002 - 2024-07-23)
   
   > Eu ja testei varios editores de texto mas nunca usei muito pq no fim das contas eu não programo nada mesmo, só edito um arquivo de config aqui ou ali e um sitezinho. Não tenho a capacidade mental pra lembrar das keybinds de vim e emacs, mas meu notebook não tanca usar o vscodium ou o sublime o tempo todo. TL;DR: sou team nano. #Terçoftware
 
-* ##### [micro](https://micro-editor.github.io/) - indicação de [@lffontenelle@mastodon.social](https://mastodon.social/@lffontenelle) (#T0002 - 2024-07-23)
+* #### [micro](https://micro-editor.github.io/) - indicação de [@lffontenelle@mastodon.social](https://mastodon.social/@lffontenelle) (#T0002 - 2024-07-23)
 
   > Nesta #TerÇoftware eu vou ficar em cima do muro e indicar três editores de texto. 1/ O micro é meu $EDITOR, principalmente para o sudoedit. Só uso para coisa besta. Ainda não me acostumei de todo, às vezes aperto escape à toa.
 
