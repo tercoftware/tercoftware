@@ -80,8 +80,19 @@
 
 * #### [mcedit](https://midnight-commander.org/) - indicação de [@cochise@social.subversida.de](https://social.subversida.de/@cochise) (#T0002 - 2024-07-23)
 
-  >Por fim o Midnight Commander, gerenciador de arquivos para o console que é clone do Norton Commander, tem um editor de texto integrado, o mcedit, que tem várias opções avançadas e fáceis de usar, inclusive um buffer para copiar e colar texto entre os arquivos.
-  
+  > Por fim o Midnight Commander, gerenciador de arquivos para o console que é clone do Norton Commander, tem um editor de texto integrado, o mcedit, que tem várias opções avançadas e fáceis de usar, inclusive um buffer para copiar e colar texto entre os arquivos.
+
+* #### [BBEdit](https://www.barebones.com/products/bbedit/) - indicação de [@augustocc@social.br-linux.org](https://social.br-linux.org/@augustocc) (#T0002 - 2024-07-23)
+
+  > Meu editor de textos do dia-a-dia é o BBEdit, e é nos menus e atalhos dele também que eu coloco as interfaces pra controlar meus bots, postar nos meus blogs, etc.
+
+* #### [Joe](https://joe-editor.sourceforge.io) - indicação de [@augustocc@social.br-linux.org](https://social.br-linux.org/@augustocc) (#T0002 - 2024-07-23)
+
+  > Quando estou confinado a um terminal de texto, aí o meu editor preferido é o clássico joe - https://joe-editor.sourceforge.io
+
+* #### [neovim](https://neovim.io/) - indicação de [@eltonfc@bertha.social](https://bertha.social/@eltonfc) (#T0002 - 2024-07-23)
+
+  > neovim. Especialmente com o LazyVim
 
 
 
