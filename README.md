@@ -1,6 +1,52 @@
 # \#Terçoftware
 ## \#Terçoftware - Dicas de Software do Fediverso BR
 
+### Leitores de Documentos / Ebooks / PDFs
+
+* #### [Calibre](https://calibre-ebook.com) - indicação de [@xenotar@mastodon.social](https://mastodon.social/@xenotar) (#T0003 - 2024-07-30)
+
+  > Eu uso o Calibre, ele vem com  leitor de formato epub e creio que usa o leitor de pdf disponível/configurado. Ele é bem completo mas, por escolha do autor, ele não suporta uma biblioteca compartilhada (nuvem, samba, nfs) o que força a duplica-la ou a usar só um dispositivo. Também por opção do autor, ele não classifica livros por tema. Fica tudo junto e misturado. #tercoftware
+
+  ###### Também indicado por:
+  > [@thirteentheri@burnthis.town](https://burnthis.town/@thirteentheri)
+  >> vou reforçar a recomendação mas no sentido de que é ótimo pra enviar arquivos pro e-reader pois diferentemente de copiar e colar, com o Calibre o livro vai com metadados, então você pode editar capa, autor, título, tudo.
+
+* #### [Readera](https://readera.org/) - indicação de [@ACarolaRodrigues@bolha.one](https://bolha.one/@ACarolaRodrigues) (#T0003 - 2024-07-30)
+
+  > eu curto o Readera porém infelirmente ele não compartilha na nuvem, o que é um inferno. Dá pra fazer buscas, editar nome do texto e autor, coleção e língua, separar por tags, e, o mais importante, copiar o que foi destacado. #terçoftware
+
+* #### [Librera FD](https://f-droid.org/pt_BR/packages/com.foobnix.pro.pdf.reader/) - indicação de [@rgou@mastodon.social](https://mastodon.social/@rgou) (#T0003 - 2024-07-30)
+
+  > Vou de Librera FD direto do FDroid. Ainda pretendo hospedar um Calibre para ter a biblioteca disponível, mas para uso só pessoal é muito esforço.
+
+  ###### Também indicado por:
+  > [@cochise@social.subversida.de](https://social.subversida.de/@cochise)
+  >> Para Android o Librera lê quase tudo sem engasgar, inclusive arquivos bem grandes, tem recursos como reflow, leitura com sintetizador de voz, alguns recursos básicos de organização de biblioteca, modo escuro... Só me falhou em ler alguns arquivos de quadrinhos (CBR, CBZ).
+
+* #### [Okular](https://okular.kde.org/pt-br/) - indicação de [@cochise@social.subversida.de](https://social.subversida.de/@cochise) (#T0003 - 2024-07-30)
+
+  > Para Linux e Windows, o Okular é infalível para quase todos os formatos. Leve, capaz de burlar os limites do DRM de PDFs chatos, suporta vários formatos, anotações avançadas e recursos de acessibilidade, como mudar cores que ajudam muito a ler aquele scan em qualidade horrível que seu professor mandou. Acho que a maior parte das pessoas não faz ideia dos recursos avançados que o Okular tem. Infelizmente, o suporte a formatos e ebook como .epub é bem rudimentar e a versão Android não passa de um protótipo, então...
+
+  ###### Também indicado por:
+  > [@aracnus@hub.teia.bio.br](https://hub.teia.bio.br/channel/aracnus)
+  >> Como leitor de PDF (e outros formatos, inclusive de quadrinhos CBR/CBZ) eu uso o excelente Okular, que também permite fazer anotações. Já no Android, também vou de Librera FD.
+
+* #### [Mihon](https://mihon.app) - indicação de [@cochise@social.subversida.de](https://social.subversida.de/@cochise) (#T0003 - 2024-07-30)
+  
+  > Mihon, que o foco é ler quadrinhos baixados direto de sites não oficiais, mas que pode organizar e ler facilmente sua biblioteca local se você a salvar da pasta certa do telefone. Como leitor tem vários recursos de como apresentar e navegar nas páginas, valendo muito a pena.
+
+* #### [Evince](https://wiki.gnome.org/Apps/Evince) - indicação de [@lffontenelle@mastodon.social](https://mastodon.social/@lffontenelle) (#T0003 - 2024-07-30)
+
+  > PDF: Antigamente no celular e Windows eu usava o Acrobat Reader, mas hoje uso mais o navegador Web, Firefox ou até mesmo Edge/Chrome etc. No Linux, uso o Evince (nunca vi graça no GNOME Documents), mas às vezes leio no Firefox.
+
+* #### [MJ PDF](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader&hl=pt_BR) - indicação de [@cadusilva@bolha.one](https://bolha.one/@cadusilva) (#T0003 - 2024-07-30)
+
+  > Só preciso ler PDFs, no máximo editá-los. Então indico o MJ PDF no Android e... o Firefox (ou fork) no desktop. Atendem bem a leitura e no Firefox há a possibilidade de pequenas edições, como adicionar texto. #terçoftware
+
+
+
+
+
 ### Editores de Texto
 
 * #### [nano](https://www.nano-editor.org) - indicação de [@fastaminha@mastodon.com.br](https://mastodon.com.br/@fantasminha) (#T0002 - 2024-07-23)
