@@ -10,6 +10,12 @@
   ###### Também indicado por:
   > [@iaravps@conversafiada.net](https://conversafiada.net/@iaravps)
   >> #tercoftware hoje é pra indicar cliente de Mastodon? Meu favorito é o Moshidon. Pra web tenho usado o Statuzer, por enquanto foi a melhor opção que encontrei com múltiplas colunas (sou órfã do TweetDeck e tô sempre à procura de algo naquele estilo)
+  
+  > [@ODD@mastodon.online](https://mastodon.online/@ODD)
+  >> Participando pela primeira vez no #terçoftware porque gostei do tema de hoje: apps para o Mastodon. Testei quase todos para o Android, e não poderia deixar de recomendar o meu favorito deles, o @moshidon@floss.social, criado pelo nosso querido @lucas_na_ursal@ursal.zone. E eu não tô dizendo isso só pra valorizar o nacional, não. Eu realmente acho o Moshidon o melhor cliente de Mastodon dentre os inúmeros que testei.
+  
+  > [@lffontenelle@mastodon.social](https://mastodon.social/@lffontenelle)
+  >> Já na #TerÇoftware eu apresento o @Moshidon, um aplicativo para Mastodon e outros do Fediverso, para Android. É uma modificação do @megalodon@floss.social, que é uma modificação do aplicativo oficial do Mastodon. De vez em quanto texto alguma coisa nova, mas tendo a oscilar entre o Moshidon e a interface Web oficial.
 
 * #### [Tusky](https://tusky.app/) - indicação de [@cadusilva@bolha.one](https://bolha.one/@cadusilva) (#T0004 - 2024-08-06)
 
