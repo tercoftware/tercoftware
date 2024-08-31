@@ -1,6 +1,32 @@
 # \#Terçoftware
 ## \#Terçoftware - Dicas de Software do Fediverso BR
 
+### Clientes para o Fediverso
+
+* #### [Moshidon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.moshinda&hl=pt_BR) - indicação de [@cadusilva@bolha.one](https://bolha.one/@cadusilva) (#T0004 - 2024-08-06)
+
+  > baseado no app oficial, mas mantido por um brasileiro que adicionou recursos extras.
+
+  ###### Também indicado por:
+  > [@iaravps@conversafiada.net](https://conversafiada.net/@iaravps)
+  >> #tercoftware hoje é pra indicar cliente de Mastodon? Meu favorito é o Moshidon. Pra web tenho usado o Statuzer, por enquanto foi a melhor opção que encontrei com múltiplas colunas (sou órfã do TweetDeck e tô sempre à procura de algo naquele estilo)
+
+* #### [Tusky](https://tusky.app/) - indicação de [@cadusilva@bolha.one](https://bolha.one/@cadusilva) (#T0004 - 2024-08-06)
+
+  > leve, não muito bonito, mas perfeitamente funcional.
+
+* #### [Elk](https://elk.zone/) - indicação de [@cadusilva@bolha.one](https://bolha.one/@cadusilva) (#T0004 - 2024-08-06)
+
+  > roda do navegador e tem interface inspirada no Twitter.
+
+* #### [Phanpy](https://phanpy.social/) - indicação de [@cadusilva@bolha.one](https://bolha.one/@cadusilva) (#T0004 - 2024-08-06)
+
+  > interface diferentona para usar o fediverso.
+
+* #### [Mona](https://apps.apple.com/br/app/mona-for-mastodon/id1659154653) - indicação de [@usuario@instancia.org](https://instancia.org/@usuario) (#T0004 - 2024-08-06)
+
+  > minha recomendação de cliente fediversal para a #TerÇoftware é o Mona para iPhone/iPad/Mac. ele é pago mas não é assinatura, é uma única vez, vc pode comprar só para iPhone ou para os outros dispositivos com desconto. é muitíssimo completo de recursos e simplesmente funciona, raramente dá qualquer problema
+
 ### Leitores de Documentos / Ebooks / PDFs
 
 * #### [Calibre](https://calibre-ebook.com) - indicação de [@xenotar@mastodon.social](https://mastodon.social/@xenotar) (#T0003 - 2024-07-30)
